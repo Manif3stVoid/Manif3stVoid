@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manif3stVoid/Manif3stVoid/refs/heads/main/assets/cyber_clock_banner.png" alt="Manif3stVoid banner" />
+</p>
+
 ### 👋 Hey there, I'm **Shankar Ramakrishnan (Manif3stVoid)**
 
 Security Consultant | OSCP | Crest | AI/ML
@@ -93,8 +97,6 @@ By chaining these flaws, it was possible to escalate from a standard user accoun
 ---
 
 ### 📈 GitHub Stats
-
-*(This section uses GitHub's dynamic stats.)*
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Manif3stVoid&show_icons=true&theme=radical)
 
