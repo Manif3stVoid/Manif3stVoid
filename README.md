@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manif3stVoid/Manif3stVoid/refs/heads/main/assets/cyber_clock_banner.png" alt="Manif3stVoid banner" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" alt="Manif3stVoid banner" />
 </p>
 
 ### 👋 Hey there, I'm **Shankar Ramakrishnan (Manif3stVoid)**
